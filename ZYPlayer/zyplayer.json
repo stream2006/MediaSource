@@ -473,17 +473,6 @@
     "reverseOrder": false
   },
   {
-    "key": "3i9Uop",
-    "id": 44,
-    "name": "百万",
-    "api": "https://api.bwzyz.com/api.php/provide/vod/at/xml",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "18+",
-    "isActive": true,
-    "reverseOrder": false
-  },
-  {
     "key": "pkNVjW",
     "id": 45,
     "name": "大地",
