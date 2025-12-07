@@ -156,8 +156,7 @@
       "api": "https://caiji.semaozy.net/inc/api.php",
       "playUrl": "https://jiexi.semaozy.cc/m3u8/?url=",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "quickSearch": 1
       },
 
       {
@@ -167,8 +166,7 @@
       "api": "https://siwazyw.tv/api.php/provide/vod/at/xml",
       "playUrl": "",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "quickSearch": 1
       },
 
       {
@@ -178,8 +176,7 @@
       "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/at/xml",
       "playUrl": "",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "quickSearch": 1
       },
 
       {
@@ -189,8 +186,7 @@
       "api": "https://vnzyz.com/api.php/provide/vod/at/xml",
       "playUrl": "",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "quickSearch": 1
       },
 
       {
@@ -301,10 +297,9 @@
                 "伦理片"
             ]
         }
-
-
-    ],
-    "parses": [
+  ],
+   
+  "parses": [
         {
             "name": "点此解析",
             "type": 2,
