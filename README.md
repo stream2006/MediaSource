@@ -5,7 +5,7 @@ http://yuedu.miaogongzi.net/shuyuan/miaogongziDY.json
 https://play.iptv365.org/tvbox.txt
 
 电视直播源：
-https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 
 Cinetry视频源：
 https://gongdian.top/tvbox/cinetry.txt
