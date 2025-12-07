@@ -86,7 +86,7 @@
          "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
          "playUrl": "",
          "searchable": 1,
-         "quickSearch": 1,
+         "quickSearch": 1
          },
 
         {
@@ -96,7 +96,7 @@
         "api": "https://www.kxgav.com/api/xml.php",
         "playUrl": "",
         "searchable": 1,
-        "quickSearch": 1,
+        "quickSearch": 1
         },
 
         {
@@ -106,7 +106,7 @@
         "api": "https://api.douapi.cc/api.php/provide/vod/?ac=list",
         "playUrl": "",
         "searchable": 1,
-        "quickSearch": 1,
+        "quickSearch": 1
         },
 
         {
@@ -116,7 +116,7 @@
         "api": "http://fhapi9.com/api.php/provide/vod/"
         "playUrl": "",
         "searchable": 1,
-        "quickSearch": 1,
+        "quickSearch": 1
         },
 
         {
@@ -126,7 +126,7 @@
         "api": "https://heiliaozyapi.com/api.php/provide/vod/"
         "playUrl": "",
         "searchable": 1,
-        "quickSearch": 1,
+        "quickSearch": 1
         },
 
         {
@@ -136,7 +136,7 @@
         "api": "https://lbapi9.com/api.php/provide/vod/at/xml"
         "playUrl": "",
         "searchable": 1,
-        "quickSearch": 1,
+        "quickSearch": 1
         },
 
       {
@@ -146,7 +146,7 @@
       "api": "https://slapibf.com/api.php/provide/vod/",
       "playUrl": "",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 1
       },
 
       {
@@ -157,7 +157,7 @@
       "playUrl": "https://jiexi.semaozy.cc/m3u8/?url=",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 1
       },
 
       {
@@ -168,7 +168,7 @@
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 1
       },
 
       {
@@ -179,7 +179,7 @@
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 1
       },
 
       {
@@ -190,7 +190,7 @@
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 1
       },
 
       {
@@ -200,7 +200,7 @@
       "api": "https://apiyutu.com/api.php/provide/vod/",
       "playUrl": "",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 1
       },
 
       {
@@ -210,7 +210,7 @@
       "api": "https://apidanaizi.com/api.php/provide/vod/at/xml",
       "playUrl": "",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 1
       },
 
       {
@@ -220,7 +220,7 @@
       "api": "https://www.pgxdy.com/api/xml.php",
       "playUrl": "",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 1
       },
 
       {
@@ -230,7 +230,7 @@
       "api": "https://hsckzy888.com/api.php/provide/vod/at/xml",
       "playUrl": "",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 1
       },
 
       {
@@ -240,7 +240,7 @@
       "api": "https://Naixxzy.com/api.php/provide/vod/?ac=list",
       "playUrl": "",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 1
       },
 
       {
@@ -250,7 +250,7 @@
       "api": "https://www.msnii.com/api/xml.php",
       "playUrl": "",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 1
       },
 
       {
@@ -260,7 +260,7 @@
       "api": "https://www.gdlsp.com/api/xml.php",
       "playUrl": "",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 1
       },
 
       {
@@ -270,7 +270,7 @@
       "api": "https://www.xrbsp.com/api/xml.php",
       "playUrl": "",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 1
       },
 
         {
