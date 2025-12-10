@@ -333,7 +333,7 @@
     "key": "zhFGkX",
     "id": 32,
     "name": "优质资源",
-    "api": "https://api.yzzy-api.com/inc/apijson.php",
+    "api": "https://api.yzzy-api.com/inc/api.php",
     "download": "",
     "jiexiUrl": "https://vip.zykbf.com/?url=",
     "group": "默认",
