@@ -77,19 +77,8 @@
     "reverseOrder": true
   },
   {
-    "key": "4gHad0",
-    "id": 8,
-    "name": "独播资源",
-    "api": "https://caiji.dbzy.tv/api.php/provide/vod/at/xml",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "默认",
-    "isActive": true,
-    "reverseOrder": true
-  },
-  {
     "key": "kuWMgo",
-    "id": 9,
+    "id": 8,
     "name": "电影天堂",
     "api": "https://caiji.dyttzyapi.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -100,7 +89,7 @@
   },
   {
     "key": "MS3NKQ",
-    "id": 10,
+    "id": 9,
     "name": "非凡资源",
     "api": "http://api.ffzyapi.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -111,7 +100,7 @@
   },
   {
     "key": "0myQ6q",
-    "id": 11,
+    "id": 10,
     "name": "光速资源",
     "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -122,7 +111,7 @@
   },
   {
     "key": "SMzmYm",
-    "id": 12,
+    "id": 11,
     "name": "豪华资源",
     "api": "https://hhzyapi.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -133,7 +122,7 @@
   },
   {
     "key": "XtvY0N",
-    "id": 13,
+    "id": 12,
     "name": "红牛资源",
     "api": "https://www.hongniuzy3.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -144,7 +133,7 @@
   },
   {
     "key": "XgAbqA",
-    "id": 14,
+    "id": 13,
     "name": "虎牙资源",
     "api": "https://www.huyazy.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -155,7 +144,7 @@
   },
   {
     "key": "M4kZ2F",
-    "id": 15,
+    "id": 14,
     "name": "极速资源",
     "api": "https://jszyapi.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -166,7 +155,7 @@
   },
   {
     "key": "6vZOYI",
-    "id": 16,
+    "id": 15,
     "name": "金鹰资源",
     "api": "https://jyzyapi.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -177,7 +166,7 @@
   },
   {
     "key": "IrF6VG",
-    "id": 17,
+    "id": 16,
     "name": "快车资源",
     "api": "https://caiji.kuaichezy.org/api.php/provide/vod/at/xml",
     "download": "",
@@ -188,7 +177,7 @@
   },
   {
     "key": "wY2AEo",
-    "id": 19,
+    "id": 17,
     "name": "魔都资源",
     "api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -199,7 +188,7 @@
   },
   {
     "key": "wzpjaR",
-    "id": 20,
+    "id": 18,
     "name": "牛牛资源",
     "api": "https://api.niuniuzy.me/api.php/provide/vod/at/xml",
     "download": "",
@@ -210,7 +199,7 @@
   },
   {
     "key": "jHL9AY",
-    "id": 21,
+    "id": 19,
     "name": "茅台资源",
     "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/xml",
     "download": "",
@@ -221,7 +210,7 @@
   },
   {
     "key": "hABIPN",
-    "id": 22,
+    "id": 20,
     "name": "猫眼资源",
     "api": "https://api.maoyanapi.top/api.php/provide/vod/at/xml",
     "download": "",
@@ -232,7 +221,7 @@
   },
   {
     "key": "t8tIM0",
-    "id": 23,
+    "id": 21,
     "name": "飘零影院",
     "api": "https://p2100.net/api.php/provide/vod/at/xml",
     "download": "",
@@ -243,7 +232,7 @@
   },
   {
     "key": "GDrCbF",
-    "id": 24,
+    "id": 22,
     "name": "如意资源",
     "api": "https://cj.rycjapi.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -254,7 +243,7 @@
   },
   {
     "key": "U5YPVW",
-    "id": 25,
+    "id": 23,
     "name": "速播资源",
     "api": "https://subocj.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -265,7 +254,7 @@
   },
   {
     "key": "otlEQy",
-    "id": 26,
+    "id": 24,
     "name": "闪电资源",
     "api": "http://xsd.sdzyapi.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -276,7 +265,7 @@
   },
   {
     "key": "HyRyBf",
-    "id": 27,
+    "id": 25,
     "name": "索尼资源",
     "api": "https://suoniapi.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -287,7 +276,7 @@
   },
   {
     "key": "7KmJlZ",
-    "id": 28,
+    "id": 26,
     "name": "天涯影视",
     "api": "https://tyyszyapi.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -298,7 +287,7 @@
   },
   {
     "key": "i7GDoG",
-    "id": 29,
+    "id": 27,
     "name": "无尽资源",
     "api": "https://api.wujinapi.me/api.php/provide/vod/at/xml",
     "download": "",
@@ -309,7 +298,7 @@
   },
   {
     "key": "Frz4B5",
-    "id": 30,
+    "id": 28,
     "name": "卧龙资源",
     "api": "https://collect.wolongzyw.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -320,7 +309,7 @@
   },
   {
     "key": "JCzj1V",
-    "id": 31,
+    "id": 29,
     "name": "新浪资源",
     "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml",
     "download": "",
@@ -331,7 +320,7 @@
   },
   {
     "key": "zhFGkX",
-    "id": 32,
+    "id": 30,
     "name": "优质资源",
     "api": "https://api.yzzy-api.com/inc/api.php",
     "download": "",
@@ -342,7 +331,7 @@
   },
   {
     "key": "dXL3eV",
-    "id": 33,
+    "id": 31,
     "name": "樱花资源",
     "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -353,7 +342,7 @@
   },
   {
     "key": "5FYlFh",
-    "id": 34,
+    "id": 32,
     "name": "最大资源",
     "api": "https://api.zuidapi.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -364,7 +353,7 @@
   },
   {
     "key": "oojMpv",
-    "id": 35,
+    "id": 33,
     "name": "丫丫资源",
     "api": "https://cj.yayazy.net/api.php/provide/vod/at/xml",
     "download": "",
@@ -375,7 +364,7 @@
   },
   {
     "key": "OHsnTw",
-    "id": 36,
+    "id": 34,
     "name": "爱奇艺资源",
     "api": "https://iqiyizyapi.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -386,7 +375,7 @@
   },
   {
     "key": "PwjwX4",
-    "id": 37,
+    "id": 35,
     "name": "小绵羊资源",
     "api": "https://vs.okcdn100.top/api.php/provide/vod/at/xml",
     "download": "",
@@ -397,7 +386,7 @@
   },
   {
     "key": "biuy0i",
-    "id": 38,
+    "id": 36,
     "name": "旺旺短剧",
     "api": "https://wwzy.tv/api.php/provide/vod/at/xml",
     "download": "",
@@ -408,7 +397,7 @@
   },
   {
     "key": "riNUTy",
-    "id": 39,
+    "id": 41,
     "name": "🔞155",
     "api": "https://155api.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -419,7 +408,7 @@
   },
   {
     "key": "VcSeGX",
-    "id": 41,
+    "id": 42,
     "name": "🔞91JP",
     "api": "https://91jpzyw.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -430,7 +419,7 @@
   },
   {
     "key": "koOMsC",
-    "id": 42,
+    "id": 43,
     "name": "🔞AIvin",
     "api": "https://lbapiby.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -441,7 +430,7 @@
   },
   {
     "key": "u9U2bH",
-    "id": 43,
+    "id": 44,
     "name": "🔞黄AV",
     "api": "https://www.pgxdy.com/api/xml.php",
     "download": "",
@@ -452,7 +441,7 @@
   },
   {
     "key": "OuDbqv",
-    "id": 44,
+    "id": 45,
     "name": "🔞搜AV",
     "api": "https://api.souavzy.vip/api.php/provide/vod/at/xml",
     "download": "",
@@ -463,7 +452,7 @@
   },
   {
     "key": "2jgYSP",
-    "id": 45,
+    "id": 46,
     "name": "🔞百花",
     "api": "https://bhziyuan.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -474,7 +463,7 @@
   },
   {
     "key": "KpyM5D",
-    "id": 46,
+    "id": 47,
     "name": "🔞白嫖",
     "api": "https://www.kxgav.com/api/xml.php",
     "download": "",
@@ -485,7 +474,7 @@
   },
   {
     "key": "ShPBc6",
-    "id": 47,
+    "id": 48,
     "name": "🔞百万",
     "api": "https://api.bwzyz.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -496,7 +485,7 @@
   },
   {
     "key": "pkNVjW",
-    "id": 48,
+    "id": 49,
     "name": "🔞大地",
     "api": "https://dadiapi.com/api.php",
     "download": "",
@@ -507,7 +496,7 @@
   },
   {
     "key": "mcivLw",
-    "id": 49,
+    "id": 50,
     "name": "🔞滴滴",
     "api": "https://api.ddapi.cc/api.php/provide/vod/at/xml",
     "download": "",
@@ -518,7 +507,7 @@
   },
   {
     "key": "HUcrMW",
-    "id": 50,
+    "id": 51,
     "name": "🔞豆豆",
     "api": "https://api.douapi.cc/api.php/provide/vod/at/xml",
     "download": "",
@@ -529,7 +518,7 @@
   },
   {
     "key": "wH6UsU",
-    "id": 51,
+    "id": 52,
     "name": "🔞番号",
     "api": "https://fhapi9.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -540,7 +529,7 @@
   },
   {
     "key": "EfMtDV",
-    "id": 52,
+    "id": 53,
     "name": "🔞番茄",
     "api": "https://fqzy.me/api.php/provide/vod/at/xml",
     "download": "",
@@ -551,7 +540,7 @@
   },
   {
     "key": "AmL5zm",
-    "id": 53,
+    "id": 54,
     "name": "🔞黑料",
     "api": "https://heiliaozyapi.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -562,7 +551,7 @@
   },
   {
     "key": "U2HRIW",
-    "id": 54,
+    "id": 55,
     "name": "🔞鸡坤",
     "api": "https://jkunzyapi.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -573,7 +562,7 @@
   },
   {
     "key": "YPyl0Q",
-    "id": 55,
+    "id": 56,
     "name": "🔞精品",
     "api": "https://www.jingpinx.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -584,7 +573,7 @@
   },
   {
     "key": "fN14GA",
-    "id": 56,
+    "id": 57,
     "name": "🔞乐播",
     "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -595,7 +584,7 @@
   },
   {
     "key": "mPGdDi",
-    "id": 57,
+    "id": 58,
     "name": "🔞麻豆",
     "api": "https://91md.me/api.php/provide/vod/at/xml",
     "download": "",
@@ -606,7 +595,7 @@
   },
   {
     "key": "5qcjnl",
-    "id": 58,
+    "id": 59,
     "name": "🔞森林",
     "api": "https://slapibf.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -617,7 +606,7 @@
   },
   {
     "key": "7pqgCp",
-    "id": 59,
+    "id": 60,
     "name": "🔞色猫",
     "api": "https://caiji.semaozy.net/inc/api.php",
     "download": "",
@@ -628,7 +617,7 @@
   },
   {
     "key": "5UPQSL",
-    "id": 60,
+    "id": 61,
     "name": "🔞丝袜",
     "api": "https://siwazyw.tv/api.php/provide/vod/at/xml",
     "download": "",
@@ -639,7 +628,7 @@
   },
   {
     "key": "GYbJiL",
-    "id": 61,
+    "id": 62,
     "name": "🔞桃花",
     "api": "https://thzy1.me/api.php/provide/vod/at/xml",
     "download": "",
@@ -650,7 +639,7 @@
   },
   {
     "key": "I269J7",
-    "id": 62,
+    "id": 63,
     "name": "🔞细胞",
     "api": "https://www.xxibaozyw.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -661,7 +650,7 @@
   },
   {
     "key": "ztDRQv",
-    "id": 63,
+    "id": 64,
     "name": "🔞杏吧",
     "api": "https://xingba222.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -672,7 +661,7 @@
   },
   {
     "key": "uCeKH9",
-    "id": 64,
+    "id": 65,
     "name": "🔞香蕉",
     "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -716,7 +705,7 @@
   },
   {
     "key": "jdUAnp",
-    "id": 70,
+    "id": 69,
     "name": "🔞优优",
     "api": "https://www.yyzywcj.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -727,7 +716,7 @@
   },
   {
     "key": "J5j7uY",
-    "id": 71,
+    "id": 70,
     "name": "🔞奥斯卡",
     "api": "https://aosikazy.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -738,7 +727,7 @@
   },
   {
     "key": "EMoq7f",
-    "id": 72,
+    "id": 71,
     "name": "🔞大奶子",
     "api": "https://apidanaizi.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -749,7 +738,7 @@
   },
   {
     "key": "fyMEZs",
-    "id": 73,
+    "id": 72,
     "name": "🔞黄仓库",
     "api": "https://hsckzy888.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -760,7 +749,7 @@
   },
   {
     "key": "Fufi4A",
-    "id": 74,
+    "id": 73,
     "name": "🔞老色逼",
     "api": "https://apilsbzy1.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -771,7 +760,7 @@
   },
   {
     "key": "DYiba0",
-    "id": 75,
+    "id": 74,
     "name": "🔞奶香香",
     "api": "https://naixxzy.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -782,7 +771,7 @@
   },
   {
     "key": "6UevfB",
-    "id": 76,
+    "id": 75,
     "name": "🔞美少女",
     "api": "https://www.msnii.com/api/xml.php",
     "download": "",
@@ -793,7 +782,7 @@
   },
   {
     "key": "yxctM2",
-    "id": 77,
+    "id": 76,
     "name": "🔞色南国",
     "api": "https://sexnguon.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -804,7 +793,7 @@
   },
   {
     "key": "BSPhuf",
-    "id": 78,
+    "id": 77,
     "name": "🔞香奶儿",
     "api": "https://www.gdlsp.com/api/xml.php",
     "download": "",
@@ -815,7 +804,7 @@
   },
   {
     "key": "Gu4vO8",
-    "id": 79,
+    "id": 78,
     "name": "🔞淫水机",
     "api": "https://www.xrbsp.com/api/xml.php",
     "download": "",
