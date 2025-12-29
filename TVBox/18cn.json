@@ -80,8 +80,8 @@
     {
       "key": "AIvin",
       "name": "🔞AIvin",
-      "type": 0,
-      "api": "http://lbapiby.com/api.php/provide/vod/at/xml",
+      "type": 1,
+      "api": "http://lbapiby.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -97,7 +97,7 @@
       "key": "豆豆资源",
       "name": "🔞豆豆",
       "type": 1,
-      "api": "https://api.douapi.cc/api.php/provide/vod/?ac=list",
+      "api": "https://api.douapi.cc/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -120,8 +120,16 @@
     {
       "key": "乐播资源",
       "name": "🔞乐播",
-      "type": 0,
-      "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "麻豆资源",
+      "name": "🔞麻豆",
+      "type": 1,
+      "api": "https://91md.me/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -144,24 +152,32 @@
     {
       "key": "丝袜资源",
       "name": "🔞丝袜",
-      "type": 0,
-      "api": "https://siwazyw.tv/api.php/provide/vod/at/xml",
+      "type": 1,
+      "api": "https://siwazyw.tv/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "鲨鱼资源",
+      "name": "🔞鲨鱼",
+      "type": 1,
+      "api": "https://shayuzy.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },
     {
       "key": "香蕉资源",
       "name": "🔞香蕉",
-      "type": 0,
-      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/at/xml",
+      "type": 1,
+      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },
     {
       "key": "越南资源",
       "name": "🔞越南",
-      "type": 0,
-      "api": "https://vnzyz.com/api.php/provide/vod/at/xml",
+      "type": 1,
+      "api": "https://vnzyz.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -176,8 +192,8 @@
     {
       "key": "大奶子",
       "name": "🔞大奶子",
-      "type": 0,
-      "api": "https://apidanaizi.com/api.php/provide/vod/at/xml",
+      "type": 1,
+      "api": "https://apidanaizi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -192,8 +208,8 @@
     {
       "key": "黄仓库",
       "name": "🔞黄仓库",
-      "type": 0,
-      "api": "https://hsckzy888.com/api.php/provide/vod/at/xml",
+      "type": 1,
+      "api": "https://hsckzy888.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -201,7 +217,7 @@
       "key": "奶香香",
       "name": "🔞奶香香",
       "type": 1,
-      "api": "https://Naixxzy.com/api.php/provide/vod/?ac=list",
+      "api": "https://Naixxzy.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -233,7 +249,7 @@
       "key": "暴风资源",
       "name": "暴风┃三级",
       "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://bfzyapi.com/api.php/provide/vod/",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
