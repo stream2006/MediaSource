@@ -15,7 +15,7 @@
       "key": "最大资源",
       "name": "🟡最大┃三级",
       "type": 1,
-      "api": "http://zuidazy.me/api.php/provide/vod/",
+      "api": "http://api.zuidapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -129,7 +129,7 @@
       "key": "麻豆资源",
       "name": "🔞麻豆",
       "type": 1,
-      "api": "https://91md.me/api.php/provide/vod/",
+      "api": "https://md91.cc/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },
