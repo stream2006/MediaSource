@@ -586,7 +586,7 @@
     "key": "mPGdDi",
     "id": 58,
     "name": "🔞麻豆",
-    "api": "https://91md.me/api.php/provide/vod/at/xml",
+    "api": "https://md91.cc/api.php/provide/vod/at/xml",
     "download": "",
     "jiexiUrl": "",
     "group": "18+",
@@ -627,8 +627,19 @@
     "reverseOrder": false
   },
   {
-    "key": "GYbJiL",
+    "key": "yxctM2",
     "id": 62,
+    "name": "🔞鲨鱼",
+    "api": "https://shayuzy.com/api.php/provide/vod/at/xml",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "reverseOrder": false
+  },
+  {
+    "key": "GYbJiL",
+    "id": 63,
     "name": "🔞桃花",
     "api": "https://thzy1.me/api.php/provide/vod/at/xml",
     "download": "",
@@ -639,7 +650,7 @@
   },
   {
     "key": "I269J7",
-    "id": 63,
+    "id": 64,
     "name": "🔞细胞",
     "api": "https://www.xxibaozyw.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -650,7 +661,7 @@
   },
   {
     "key": "ztDRQv",
-    "id": 64,
+    "id": 65,
     "name": "🔞杏吧",
     "api": "https://xingba222.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -661,7 +672,7 @@
   },
   {
     "key": "uCeKH9",
-    "id": 65,
+    "id": 66,
     "name": "🔞香蕉",
     "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -672,7 +683,7 @@
   },
   {
     "key": "L8FriZ",
-    "id": 66,
+    "id": 67,
     "name": "🔞幸资",
     "api": "https://xzybb1.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -683,7 +694,7 @@
   },
   {
     "key": "JwAOKy",
-    "id": 67,
+    "id": 68,
     "name": "🔞越南",
     "api": "https://vnzyz.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -694,7 +705,7 @@
   },
   {
     "key": "Y1Mp6E",
-    "id": 68,
+    "id": 69,
     "name": "🔞玉兔",
     "api": "https://apiyutu.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -705,7 +716,7 @@
   },
   {
     "key": "jdUAnp",
-    "id": 69,
+    "id": 70,
     "name": "🔞优优",
     "api": "https://www.yyzywcj.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -716,7 +727,7 @@
   },
   {
     "key": "J5j7uY",
-    "id": 70,
+    "id": 71,
     "name": "🔞奥斯卡",
     "api": "https://aosikazy.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -727,7 +738,7 @@
   },
   {
     "key": "EMoq7f",
-    "id": 71,
+    "id": 72,
     "name": "🔞大奶子",
     "api": "https://apidanaizi.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -738,7 +749,7 @@
   },
   {
     "key": "fyMEZs",
-    "id": 72,
+    "id": 73,
     "name": "🔞黄仓库",
     "api": "https://hsckzy888.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -749,7 +760,7 @@
   },
   {
     "key": "Fufi4A",
-    "id": 73,
+    "id": 74,
     "name": "🔞老色逼",
     "api": "https://apilsbzy1.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -760,7 +771,7 @@
   },
   {
     "key": "DYiba0",
-    "id": 74,
+    "id": 75,
     "name": "🔞奶香香",
     "api": "https://naixxzy.com/api.php/provide/vod/at/xml",
     "download": "",
@@ -771,20 +782,9 @@
   },
   {
     "key": "6UevfB",
-    "id": 75,
+    "id": 76,
     "name": "🔞美少女",
     "api": "https://www.msnii.com/api/xml.php",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "18+",
-    "isActive": true,
-    "reverseOrder": false
-  },
-  {
-    "key": "yxctM2",
-    "id": 76,
-    "name": "🔞色南国",
-    "api": "https://sexnguon.com/api.php/provide/vod/at/xml",
     "download": "",
     "jiexiUrl": "",
     "group": "18+",
