@@ -5,10 +5,7 @@ http://yuedu.miaogongzi.net/shuyuan/miaogongziDY.json
 https://play.iptv365.org/tvbox.txt
 
 电视直播源：
-https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 
-Cinetry视频源：
-https://gongdian.top/tvbox/cinetry.txt
-
-Lxmusic音乐源：
-https://raw.githubusercontent.com/pdone/lx-music-source/main/lx/latest.js
+洛雪音乐源：
+https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/lx/latest.js
