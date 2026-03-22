@@ -2,7 +2,7 @@
 http://yuedu.miaogongzi.net/shuyuan/miaogongziDY.json
 
 影视多仓源：
-https://play.iptv365.org/tvbox.txt
+http://z.qiqiv.cn/123.txt
 
 电视直播源：
 https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
