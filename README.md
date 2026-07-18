@@ -4,6 +4,9 @@ http://yuedu.miaogongzi.net/shuyuan/miaogongziDY.json
 影视多仓源：
 http://z.qiqiv.cn/123.txt
 
+羊壳视频源：
+https://9280.kstore.vip/cat/index.js.md5
+
 电视直播源：
 https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 
